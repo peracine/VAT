@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VatCalculator", "VatCalculator\VatCalculator.csproj", "{E88827FB-4731-4121-B9CF-14A66D6B9BCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{5838E4FA-12C4-4B59-9D7A-538A43454254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VatCalculator.Tests", "Tests\VatCalculator.Tests.csproj", "{5838E4FA-12C4-4B59-9D7A-538A43454254}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
